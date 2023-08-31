@@ -70,7 +70,7 @@ Widget _texto() {
         Text("Para cuando",
           style: estiloTitulo,
         ),
-        Text("las pcs", style: estiloTitulo,),
+        Text("las pcsd", style: estiloTitulo,),
         Expanded(child: Container()),
         Icon(
           Icons.keyboard_arrow_down,
